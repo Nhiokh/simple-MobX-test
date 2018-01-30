@@ -1,0 +1,21 @@
+{
+  "name": "simple-MobX-test",
+  "version": "1.0.0",
+  "description": "Simple test of MobX on a React App",
+  "main": "index.js",
+  "repository": "https://github.com/Nhiokh/simple-MobX-test.git",
+  "author": "Samuel Abiassi <contact@samuelabiassi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.5.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
