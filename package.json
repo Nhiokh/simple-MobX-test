@@ -7,6 +7,7 @@
   "author": "Samuel Abiassi <contact@samuelabiassi.com>",
   "license": "MIT",
   "dependencies": {
+    "node-sass": "^4.7.2",
     "parcel-bundler": "^1.5.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
